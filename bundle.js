@@ -30487,7 +30487,7 @@
 
 	var CLIENT_ID = "227XCH";
 	var RESPONSE_TYPE = "token";
-	var REDIRECT_URI = "http://localhost:8080";
+	var REDIRECT_URI = "https://knadjafloo.github.io/";
 	var SCOPE = encodeURI("activity heartrate location nutrition profile settings sleep social weight");
 
 	var App = function (_Component) {
